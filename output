@@ -46,4 +46,4 @@ ports :
 Display :
 10
 choice_score:  [375, 300, 440, 320, 500, 550]
-Your choice:  {'Windows': 2295, 'Mac': 2485}
+Your Results:  {'Windows': 2295, 'Mac': 2485}
