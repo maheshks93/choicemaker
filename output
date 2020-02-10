@@ -1,0 +1,49 @@
+Enter the number of choices:
+2
+Enter your choices
+Windows
+Mac
+Good, now input your parameters and their corresponding weightage. Enter exit once done!
+Price
+75
+SSD Available Memory
+60
+RAM
+55
+Processor
+40
+ports
+50
+Display
+55
+exit
+Let's begin the decision making..Enter your score for each parameter
+Windows: 
+Price :
+7
+SSD Available Memory :
+7
+RAM :
+7
+Processor :
+7
+ports :
+6
+Display :
+7
+choice_score:  [525, 420, 385, 280, 300, 385]
+Mac: 
+Price :
+5
+SSD Available Memory :
+5
+RAM :
+8
+Processor :
+8
+ports :
+10
+Display :
+10
+choice_score:  [375, 300, 440, 320, 500, 550]
+Your choice:  {'Windows': 2295, 'Mac': 2485}
